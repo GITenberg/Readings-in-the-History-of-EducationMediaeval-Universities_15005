@@ -1,0 +1,30 @@
+_repo: Readings-in-the-History-of-EducationMediaeval-Universities_15005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Arthur O.
+    alias: Norton, Arthur Orlo
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '5783'
+    url: http://www.gutenberg.org/2009/agents/5783
+description: ''
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Education, Medieval -- History -- Sources'
+- !lcsh 'Universities and colleges -- Europe'
+title: 'Readings in the History of Education
+
+  Mediaeval Universities'
+url: http://www.gutenberg.org/ebooks/15005
